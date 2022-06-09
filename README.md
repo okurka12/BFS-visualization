@@ -5,5 +5,6 @@
 
 **Running the app**:
  - execute `main.py`
+ - size of the grid and possible moves can be set in `config.py`
 
 I developed the app on Windows 10.
